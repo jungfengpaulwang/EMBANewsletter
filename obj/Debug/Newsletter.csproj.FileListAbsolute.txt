@@ -1,0 +1,16 @@
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\Newsletter.dll.config
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\Newsletter.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\Newsletter.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\OrbitOne.MailChimp.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\MailChimp_v1_1.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\CookComputing.XmlRpcV2.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\bin\Debug\OrbitOne.MailChimp.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.csproj.GenerateResource.Cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Newsletter\Newsletter.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Newsletter\Newsletter.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.Forms.frmMailChimpApiKey.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.Forms.frmSyncSubscriber.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.Properties.Resources.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Newsletter\obj\Debug\Newsletter.csprojResolveAssemblyReference.cache
